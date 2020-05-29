@@ -1,2 +1,2 @@
-import "./styles.css";
-import "./mouseMove";
+import './styles.css'
+import './mouseMove'
